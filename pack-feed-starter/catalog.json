@@ -1,0 +1,25 @@
+{
+  "schema_version": "0.1",
+  "environment": "dev",
+  "catalog_id": "event-companion-pack-feed-dev",
+  "updated_at": "2026-05-29T12:00:00Z",
+  "manifests": [
+    {
+      "id": "dev-e17",
+      "label": "E17 field-test feed",
+      "url": "manifests/dev-e17.json",
+      "environment": "dev",
+      "updated_at": "2026-05-29T12:00:00Z",
+      "coverage_hint": {
+        "country": "GB",
+        "city": "London",
+        "area": "Walthamstow",
+        "center": {
+          "lat": 51.5865,
+          "lon": -0.0322
+        },
+        "radius_m": 1200
+      }
+    }
+  ]
+}
