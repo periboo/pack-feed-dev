@@ -2,30 +2,30 @@
   "schema_version": "0.1",
   "environment": "dev",
   "coverage_id": "dev-e17",
-  "version": "2026-06-04T175045Z",
-  "updated_at": "2026-06-04T17:50:45Z",
+  "version": "2026-06-04T175622Z",
+  "updated_at": "2026-06-04T17:56:22Z",
   "expires_at": "2026-06-30T04:00:00+01:00",
   "packs": [
     {
       "id": "e17-compact-walk-test",
       "kind": "field_test",
-      "url": "../packs/dev/e17-compact-walk-test/e17-compact-walk-test__2026-06-04T175045Z.json",
-      "version": "2026-06-04T175045Z",
-      "etag": "2026-06-04T175045Z",
-      "updated_at": "2026-06-04T17:50:45Z",
+      "url": "../packs/dev/e17-compact-walk-test/e17-compact-walk-test__2026-06-04T175622Z.json",
+      "version": "2026-06-04T175622Z",
+      "etag": "2026-06-04T175622Z",
+      "updated_at": "2026-06-04T17:56:22Z",
       "expires_at": "2026-06-30T04:00:00+01:00",
       "refresh_hint": "2h",
       "volatility": "field_test",
       "coverage_hint": {
-        "label": "E17 compact walking test",
+        "label": "E17 radius field test",
         "country": "GB",
         "city": "London",
         "area": "Walthamstow",
         "center": {
-          "lat": 51.5865,
-          "lon": -0.0322
+          "lat": 51.586474294158386,
+          "lon": -0.03217086166487995
         },
-        "radius_m": 800
+        "radius_m": 1600
       }
     }
   ]
