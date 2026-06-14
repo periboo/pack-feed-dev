@@ -2,14 +2,14 @@
   "schema_version": "0.1",
   "environment": "dev",
   "catalog_id": "event-companion-pack-feed-dev",
-  "updated_at": "2026-06-13T19:15:12Z",
+  "updated_at": "2026-06-14T07:15:17Z",
   "manifests": [
     {
       "id": "dev-e17",
       "label": "E17 field-test feed",
       "url": "manifests/dev-e17.json",
       "environment": "dev",
-      "updated_at": "2026-06-13T19:15:12Z",
+      "updated_at": "2026-06-14T07:15:17Z",
       "coverage_hint": {
         "country": "GB",
         "city": "London",
